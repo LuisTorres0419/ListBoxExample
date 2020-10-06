@@ -18,7 +18,7 @@ Public Class ListBoxExmpleForm
 
         For Each thingy In displayData
 
-            DisplayListBox.Items.Add("thingy")
+            DisplayListBox.Items.Add(thingy)
 
         Next
 
